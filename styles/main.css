@@ -21,21 +21,21 @@
 
 .navli2{
 	position: absolute;
-	left: 1050px;
+	left: 1120px;
 	top: 70px;
 	font-size: 20px;
 }
 
 .navli3{
 	position: absolute;
-	left: 1200px;
+	left: 1320px;
 	top: 70px;
 	font-size: 20px;
 }
 
 .navli4{
 	position: absolute;
-	left: 1350px;
+	left: 1500px;
 	top: 70px;
 	font-size: 20px;
 }
@@ -44,7 +44,7 @@
 .search{
 	width: 25px;
 	height: 25px;
-	margin-left: 1450px;
+	margin-left: 1650px;
 	margin-top: 70px;
 }
 
@@ -133,4 +133,16 @@
 	width: 260px;
 	font-size: 13px;
 }
+
+.fb{
+	position: absolute;
+	left: 1600px;
+	top: 90px;
+}
+
+.ins{
+
+	position: absolute;
+	left: 1700px;
+	top: 90px;
 }
